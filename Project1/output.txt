@@ -1,0 +1,34 @@
+set_color 1.0 1.0 1.0
+draw_line 1 10 16 484 16 
+draw_line 1 10 62 484 62 
+draw_line 1 10 108 484 108 
+draw_line 1 10 154 484 154 
+draw_line 1 10 200 484 200 
+draw_line 1 10 246 484 246 
+draw_line 1 10 292 484 292 
+draw_line 1 10 338 484 338 
+draw_line 1 10 384 484 384 
+draw_line 1 10 430 484 430 
+draw_line 1 10 476 484 476 
+draw_line 1 16 10 16 484 
+draw_line 1 62 10 62 16 
+draw_line 1 108 10 108 16 
+draw_line 1 154 10 154 16 
+draw_line 1 200 10 200 16 
+draw_line 1 246 10 246 16 
+draw_line 1 292 10 292 16 
+draw_line 1 338 10 338 16 
+draw_line 1 384 10 384 16 
+draw_line 1 430 10 430 16 
+draw_line 1 476 10 476 16 
+set_color 1.0 0.5 1.0 
+draw_polygon 4 51 37 73 37 73 16 51 16 
+draw_polygon 4 97 48 119 48 119 16 97 16 
+draw_polygon 4 143 70 165 70 165 16 143 16 
+draw_polygon 4 189 103 211 103 211 16 189 16 
+draw_polygon 4 235 158 257 158 257 16 235 16 
+draw_polygon 4 281 246 303 246 303 16 281 16 
+draw_polygon 4 327 388 349 388 349 16 327 16 
+draw_polygon 4 373 476 395 476 395 16 373 16 
+draw_polygon 4 419 476 441 476 441 16 419 16 
+draw_polygon 4 465 476 487 476 487 16 465 16 
